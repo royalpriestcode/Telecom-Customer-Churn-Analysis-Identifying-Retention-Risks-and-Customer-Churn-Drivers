@@ -421,31 +421,6 @@ That is the point where reporting becomes useful business analysis.
 
 ---
 
-# Repository Structure
-
-```text
-telecom-customer-churn-analysis/
-│
-├── README.md
-│
-├── data/
-│   └── Telecom Customer Churn.xlsx
-│
-├── dashboard/
-│   ├── Executive Overview.png
-│   ├── Customer Profile.png
-│   ├── Services.png
-│   ├── Billing.png
-│   └── Executive Insights.png
-│
-├── report/
-│   └── Telecom_Churn_Business_Report.pdf
-│
-└── presentation/
-    └── Telecom_Churn_Business_Presentation.pptx
-```
-
----
 
 # Project Summary
 
