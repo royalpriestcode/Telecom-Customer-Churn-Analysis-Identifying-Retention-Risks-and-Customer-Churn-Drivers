@@ -473,4 +473,4 @@ The project translates those patterns into a targeted retention strategy focused
 Data Analyst
 
 [LinkedIn](https://www.linkedin.com/in/omodolapoladokun)
-[GitHub](https://github.com/royalpriestcode)
+[GitHub](https://github.com/omodolapoladokun)
